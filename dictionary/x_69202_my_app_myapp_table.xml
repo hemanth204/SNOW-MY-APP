@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="MyApp Table" max_length="40" name="x_69202_my_app_myapp_table" type="collection">
+        <element label="All" max_length="40" name="all" type="string"/>
+        <element label="date of coming" max_length="40" name="date_of_coming" type="glide_date"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Price" max_length="20" name="price" type="currency"/>
+        <element label="Up" max_length="40" name="up" type="string"/>
+    </element>
+</database>
